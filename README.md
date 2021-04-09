@@ -7,3 +7,6 @@
 
 
 ### and natural language procecessing again
+### Re freshing 3 project same for kaggle
+### use them in api
+### https://www.kaggle.com/tanvirrahmanornob/code
